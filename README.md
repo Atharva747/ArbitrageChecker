@@ -22,4 +22,4 @@ currencies <Ci1, Ci2, Ci3 , ... , Cik> such that:
 R[i1,i2] * R[i2,i3] * ... * R[ik,i1] > 1
 
 Solution: Take the negative log values of the weights and apply Bellman-Ford algorithm for shortest paths in order to find whether there exists a
-negative weight cycle. If there is a negative weight cycle, then are discrepancies in the conversion rates and the trader can make a profit.
+negative weight cycle. If there is a negative weight cycle, there are discrepancies in the conversion rates and the trader can make a profit.
