@@ -1,5 +1,4 @@
 # ArbitrageChecker
-The following problem is from the book 'Introduction to Algorithms' by CLRS:
 
 
 Arbitrage is the use of discrepancies in currency exchange rates to transform one unit of a currency
